@@ -1,8 +1,8 @@
-# Face Mask Detection
-### This is our Final Year Project for our course of B.Tech in Computer Science. This project consists of a simple UI which launches the integrated camera on the system and detects if a person is wearing a mask or not.
+# Face Mask Detection 😷
+### _This is our Final Year Project for our course of B.Tech in Computer Science. This project consists of a simple UI which launches the integrated camera on the system and detects if a person is wearing a mask or not._
 
 
-## Instructions to run this project
+## Instructions to run this project 💻
  1) If you're running this project for the first time, then open command prompt in the folder destination and write the command `pip install -r requirements.txt`.
  2) Now that everything's set up and running, run this command `python face_mask_detector.py` in the command prompt or terminal.
  3) The project should run, and GUI should open up. Then, click on "Launch Camera" button to open the integrated camera.
